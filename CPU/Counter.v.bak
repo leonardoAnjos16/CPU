@@ -1,0 +1,4 @@
+module Counter(clock, out);
+
+	input wire clock;
+	output reg [2:0] out;

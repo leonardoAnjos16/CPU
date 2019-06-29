@@ -1,0 +1,3 @@
+module Controller(clock, Tx, Ty, Tz, Tula);
+
+	input wire clock;

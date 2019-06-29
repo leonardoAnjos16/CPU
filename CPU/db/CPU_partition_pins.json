@@ -1,0 +1,129 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "valueX[0]",
+					"strict" : false
+				},
+				{
+					"name" : "valueX[1]",
+					"strict" : false
+				},
+				{
+					"name" : "valueX[2]",
+					"strict" : false
+				},
+				{
+					"name" : "valueX[3]",
+					"strict" : false
+				},
+				{
+					"name" : "valueY[0]",
+					"strict" : false
+				},
+				{
+					"name" : "valueY[1]",
+					"strict" : false
+				},
+				{
+					"name" : "valueY[2]",
+					"strict" : false
+				},
+				{
+					"name" : "valueY[3]",
+					"strict" : false
+				},
+				{
+					"name" : "valueZ[0]",
+					"strict" : false
+				},
+				{
+					"name" : "valueZ[1]",
+					"strict" : false
+				},
+				{
+					"name" : "valueZ[2]",
+					"strict" : false
+				},
+				{
+					"name" : "valueZ[3]",
+					"strict" : false
+				},
+				{
+					"name" : "outALU[0]",
+					"strict" : false
+				},
+				{
+					"name" : "outALU[1]",
+					"strict" : false
+				},
+				{
+					"name" : "outALU[2]",
+					"strict" : false
+				},
+				{
+					"name" : "outALU[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Tx[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Tx[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Ty[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Ty[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Tz[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Tz[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Talu",
+					"strict" : false
+				},
+				{
+					"name" : "counter[0]",
+					"strict" : false
+				},
+				{
+					"name" : "counter[1]",
+					"strict" : false
+				},
+				{
+					"name" : "counter[2]",
+					"strict" : false
+				},
+				{
+					"name" : "valueMemory[0]",
+					"strict" : false
+				},
+				{
+					"name" : "valueMemory[1]",
+					"strict" : false
+				},
+				{
+					"name" : "valueMemory[2]",
+					"strict" : false
+				},
+				{
+					"name" : "clock",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
